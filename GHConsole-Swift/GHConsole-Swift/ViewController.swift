@@ -21,7 +21,6 @@ class ViewController: UIViewController {
         //if you  want to see the responsJSon from the API, you can just use GGLog( ) like NSLog( ) here.
         GGLog("if you  want to see the responsJSon from the API, you can just use GGLog( ) like NSLog( ) here!")
         
-    
     }
 
     override func didReceiveMemoryWarning() {
